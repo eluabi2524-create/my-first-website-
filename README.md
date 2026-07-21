@@ -1,5 +1,19 @@
 # my-first-website-
 My first website created using HTML and CSS on my mobile phone.
+
+# my-first-website-
+
+My first website created using HTML and CSS on my mobile phone.
+
+---
+
+### ስለ ድር ጣቢያው
+ይህ ድር ጣቢያ የድር ልማት (Web Development) ክህሎቴን ለመፈተሽ እና የሞባይል ስልክ ተጠቃሚዎችን ያገናዘበ (Responsive) ቀላል ድር ጣቢያ እንዴት እንደሚሠራ ለመማር የተፈጠረ የመጀመሪያ ፕሮጀክቴ ነው።
+
+### ዋና ኮድ (Source Code)
+በዚህ ፕሮጀክት ውስጥ የተጠቀምኩት ሙሉ የ HTML እና CSS ኮድ ከዚህ በታች ቀርቧል፡
+
+```html
 <!DOCTYPE html>
 <html lang="am">
 <head>
@@ -24,35 +38,12 @@ My first website created using HTML and CSS on my mobile phone.
             color: #7f8c8d;
             margin-bottom: 20px;
         }
-        a {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #3498db;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-            transition: background-color 0.3s ease;
-        }
-        a:hover {
-            background-color: #2980b9;
-        }
-        footer {
-            margin-top: 100px;
-            font-size: 0.9em;
-            color: #bdc3c7;
-        }
     </style>
 </head>
 <body>
 
     <h1>እንኳን ወደ ድር ጣቢያዬ በደህና መጡ!</h1>
     <p>ይህ ድር ጣቢያ በሞባይል ስልኬ ተፈጠረ።</p>
-    <a href="https://github.com/eluabi2524-create">የእኔን GitHub ገጽ ይጎብኙ</a>
-
-    <footer>
-        የተፈጠረው በኮዲንግ ተማሪ ነው።
-    </footer>
 
 </body>
 </html>
